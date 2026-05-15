@@ -1,8 +1,10 @@
-# 👨‍💻 João Nascimento
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e4e91d1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e4e91d1&size=33&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Gabriel;I+study+computer+science+at+CESUPA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 **`Computer Science student`**
 
-My name is João Gabriel, I am 19 year old and currently trying to expand my areas of ​​interest in technology. Focusing in aquire knowledge to build a career in data analysis with Python or Java. I also enjoy doing projects with Arduino and Esp32.
+My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently trying to expand my areas of ​​interest in technology. Focusing in aquire knowledge to build a career in data analysis with Python or Java. I also enjoy doing projects with Arduino and Esp32.
 
 
 ---
@@ -86,21 +88,8 @@ My name is João Gabriel, I am 19 year old and currently trying to expand my are
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JG-endOS&bg_color=00000000&color=ffffffd8&line=07e9a5&point=0a855c&area=true&hide_border=true)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e4e91d1&height=120&section=footer"/>
 
-</p>
 
