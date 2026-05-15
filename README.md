@@ -2,7 +2,7 @@
 
 **`Computer Science student`**
 
-My name is João Gabriel, I am 19 year old and currently trying to expand my areas of ​​interest in technology. 
+My name is João Gabriel, I am 19 year old and currently trying to expand my areas of ​​interest in technology. Focusing in aquire knowledge to buld a career in data analysis with Python or Java.
 
 
 ---
