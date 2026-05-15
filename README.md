@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b728fd8&size=33&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Gabriel;I+study+computer+science+at+CESUPA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-**`About me:`**
+### 👨‍💻 About me
 
 My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently trying to expand my areas of ​​interest in technology. Focusing in aquire knowledge to build a career in data analysis with Python or Java. I also enjoy doing projects with Arduino and Esp32.
 
@@ -85,6 +85,8 @@ My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently 
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Statistics
 
