@@ -1,14 +1,21 @@
 # 👨‍💻 João Nascimento
 
-**`Acadêmico de ciência da computação`**
+**`Computer Science student`**
 
-Me chamo João Gabriel, tenho 19 anos.
+My name is João Gabriel, I am 19 year old and currently trying to expand my areas of ​​interest in technology. 
 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 Linguagens e Tecnolog
+<img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/vscode/original.svg"
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -43,6 +50,14 @@ Me chamo João Gabriel, tenho 19 anos.
 />
 <img 
     align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/github/original.svg?color=%23484A7B" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -64,14 +79,6 @@ Me chamo João Gabriel, tenho 19 anos.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/fedora/plain.svg"
-/>
-<img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/vscode/original.svg"
 />
 
 <br/>
