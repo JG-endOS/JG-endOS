@@ -7,7 +7,7 @@ My name is João Gabriel, I am 19 year old and currently trying to expand my are
 
 ---
 
-### 🤖 Linguagens e Tecnolog
+### 🤖 Languages and Technologies
 <img 
     align="left" 
     alt="VScode" 
@@ -84,7 +84,7 @@ My name is João Gabriel, I am 19 year old and currently trying to expand my are
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
