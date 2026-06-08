@@ -10,22 +10,7 @@ My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently 
 ---
 
 ### 🤖 Languages and Technologies
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/html5/original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/css3/original.svg"
-/>
+
 <img 
     align="left" 
     alt="VScode" 
@@ -58,14 +43,7 @@ My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/c/original.svg" 
 />
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/cplusplus/original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Github" 
